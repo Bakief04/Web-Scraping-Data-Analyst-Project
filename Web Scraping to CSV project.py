@@ -30,10 +30,3 @@ for row in column_data[1:]:
 
 # Saves out to csv file. If file is needed, Paste in file path with a file name (Example: File.csv)
 df.to_csv(r'', index = False)
-
-
-# In[ ]:
-
-
-
-
